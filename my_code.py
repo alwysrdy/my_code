@@ -2,8 +2,8 @@
 print("hello")
 
 #join two lists
-a=[1,2,3]
-b=[3,4,5]
+a=[1,2,3,7]
+b=[3,4,5,8]
 c=a+b
 print(c)
 
